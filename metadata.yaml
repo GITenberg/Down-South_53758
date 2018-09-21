@@ -1,0 +1,30 @@
+_repo: Down-South_53758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Duffus, Lady
+    aliases:
+    - Duffus Hardy, Lady
+    - Hardy, Lady
+    - Addleston, Hill
+    - Addlestone, Hill
+    - Hardy, Mary McDowell Duffus, Lady
+    deathdate: 1891
+    gutenberg_agent_id: '47519'
+    url: http://www.gutenberg.org/2009/agents/47519
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53758'
+  lccn: rc01002441
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Description and travel'
+- !lcc 'F206'
+- GITenberg
+title: Down South
+url: http://www.gutenberg.org/ebooks/53758
